@@ -31,6 +31,16 @@
     font-weight: bold;
     color:white;
 }
+.logIn-btn{
+       
+      padding:6px 25px;
+      background-color: cornflowerblue;
+      border-radius: 10px;
+}
+.logIn-btn span{
+    color:rgb(114, 5, 38);
+    font-size: 22px;
+}
 .first-container{
     display:flex;
     padding-left:3%;
