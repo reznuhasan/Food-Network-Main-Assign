@@ -74,6 +74,9 @@
     margin-bottom: 60px;
     background-image: url(images/bg2.png);
     
+} 
+.second-container p{
+    padding-bottom: 10px;
 }
 #male img{
     width:60%;
