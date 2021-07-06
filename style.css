@@ -68,3 +68,14 @@
     font-weight: bold;
     border-radius: 20px;
 }
+.second-container{
+    display:flex;
+    align-items: center; 
+    margin-bottom: 60px;
+    background-image: url(images/bg2.png);
+    
+}
+#male img{
+    width:60%;
+    margin-left: 120px;
+}
